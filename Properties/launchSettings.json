@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "st10260322_functionsAzure": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7112",
+      "launchBrowser": false
+    }
+  }
+}
